@@ -61,4 +61,4 @@ Estos argumentos claves son:
   - **.presion(posicion_raton,ventana)**: tomando como parámetros la posicion del raton y la ventana que estamos usando para el botón, nos devolverá True o False dependiendo si presionamos el botón, haciendo la animación (en caso de estar activa) y ejecutando (si tiene) la función asignada.
   
 # Creditos
-Esta clase fue hecha en conjunto entre Macias Luciano (github user: luichinni) y Payajo Shein (github user: Shein-P)
+Esta clase fue hecha en conjunto entre Macias Luciano (GitHub user: luichinni) y Payajo Shein (GitHub user: Shein-P)
